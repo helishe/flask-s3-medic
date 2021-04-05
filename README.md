@@ -10,3 +10,4 @@
   - db.create.all()
 7. In console type: set(for Windows)/export(for Linux) FLASK_APP=medicalapp
 8. To run website on your local machine: flask run 
+9. To create docker image use: docker-compose up
